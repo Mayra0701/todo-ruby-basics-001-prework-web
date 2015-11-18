@@ -18,6 +18,7 @@ describe "ruby" do
       value = "Bob"
 
       expect(assign_variable(value)).to eq(value)
+      
     end
   end
 
